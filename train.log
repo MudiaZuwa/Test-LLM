@@ -1,0 +1,63 @@
+nohup: ignoring input
+parameters: 627009
+step 250  train 2.382  val 2.402  lr 1.0e-3  2.9min  ← new best, saved
+step 500  train 2.024  val 2.082  lr 1.0e-3  5.7min  ← new best, saved
+step 750  train 1.773  val 1.912  lr 1.0e-3  8.8min  ← new best, saved
+step 1000  train 1.632  val 1.804  lr 9.9e-4  11.6min  ← new best, saved
+step 1250  train 1.567  val 1.737  lr 9.9e-4  14.5min  ← new best, saved
+step 1500  train 1.516  val 1.682  lr 9.8e-4  17.4min  ← new best, saved
+step 1750  train 1.462  val 1.666  lr 9.8e-4  20.1min  ← new best, saved
+step 2000  train 1.450  val 1.606  lr 9.7e-4  23.0min  ← new best, saved
+step 2250  train 1.418  val 1.582  lr 9.6e-4  26.6min  ← new best, saved
+step 2500  train 1.419  val 1.599  lr 9.5e-4  29.6min
+step 2750  train 1.384  val 1.601  lr 9.4e-4  32.6min
+step 3000  train 1.370  val 1.594  lr 9.2e-4  35.4min
+step 3250  train 1.346  val 1.558  lr 9.1e-4  38.3min  ← new best, saved
+step 3500  train 1.343  val 1.583  lr 8.9e-4  41.2min
+step 3750  train 1.340  val 1.538  lr 8.8e-4  44.1min  ← new best, saved
+step 4000  train 1.338  val 1.553  lr 8.6e-4  47.1min
+step 4250  train 1.349  val 1.590  lr 8.4e-4  49.9min
+step 4500  train 1.327  val 1.543  lr 8.3e-4  52.8min
+step 4750  train 1.307  val 1.555  lr 8.1e-4  55.8min
+step 5000  train 1.297  val 1.555  lr 7.9e-4  58.5min
+step 5250  train 1.297  val 1.552  lr 7.7e-4  61.7min
+step 5500  train 1.307  val 1.513  lr 7.4e-4  64.8min  ← new best, saved
+step 5750  train 1.284  val 1.501  lr 7.2e-4  67.6min  ← new best, saved
+step 6000  train 1.297  val 1.507  lr 7.0e-4  70.3min
+step 6250  train 1.295  val 1.505  lr 6.8e-4  73.3min
+step 6500  train 1.271  val 1.508  lr 6.5e-4  76.2min
+step 6750  train 1.271  val 1.513  lr 6.3e-4  79.1min
+step 7000  train 1.254  val 1.538  lr 6.1e-4  81.7min
+step 7250  train 1.262  val 1.511  lr 5.8e-4  84.5min
+step 7500  train 1.271  val 1.508  lr 5.6e-4  87.5min
+step 7750  train 1.232  val 1.490  lr 5.4e-4  90.3min  ← new best, saved
+step 8000  train 1.246  val 1.506  lr 5.1e-4  93.1min
+step 8250  train 1.243  val 1.506  lr 4.9e-4  95.8min
+step 8500  train 1.236  val 1.503  lr 4.6e-4  98.8min
+step 8750  train 1.226  val 1.478  lr 4.4e-4  101.5min  ← new best, saved
+step 9000  train 1.235  val 1.467  lr 4.2e-4  104.2min  ← new best, saved
+step 9250  train 1.228  val 1.496  lr 4.0e-4  106.9min
+step 9500  train 1.231  val 1.482  lr 3.7e-4  109.5min
+step 9750  train 1.226  val 1.501  lr 3.5e-4  112.2min
+step 10000  train 1.209  val 1.468  lr 3.3e-4  114.8min
+step 10250  train 1.206  val 1.472  lr 3.1e-4  117.5min
+step 10500  train 1.204  val 1.485  lr 2.9e-4  120.3min
+step 10750  train 1.219  val 1.489  lr 2.7e-4  123.1min
+step 11000  train 1.203  val 1.462  lr 2.5e-4  125.8min  ← new best, saved
+step 11250  train 1.202  val 1.495  lr 2.4e-4  128.6min
+step 11500  train 1.207  val 1.490  lr 2.2e-4  131.2min
+step 11750  train 1.183  val 1.473  lr 2.0e-4  133.9min
+step 12000  train 1.192  val 1.473  lr 1.9e-4  136.7min
+step 12250  train 1.205  val 1.480  lr 1.7e-4  139.5min
+step 12500  train 1.173  val 1.448  lr 1.6e-4  142.1min  ← new best, saved
+step 12750  train 1.175  val 1.483  lr 1.5e-4  144.7min
+step 13000  train 1.188  val 1.477  lr 1.4e-4  147.8min
+step 13250  train 1.183  val 1.496  lr 1.3e-4  150.5min
+step 13500  train 1.183  val 1.503  lr 1.2e-4  153.5min
+step 13750  train 1.183  val 1.452  lr 1.2e-4  156.0min
+step 14000  train 1.182  val 1.471  lr 1.1e-4  158.7min
+step 14250  train 1.179  val 1.457  lr 1.1e-4  161.3min
+step 14500  train 1.174  val 1.486  lr 1.0e-4  164.2min
+step 14750  train 1.191  val 1.492  lr 1.0e-4  167.0min
+step 15000  train 1.183  val 1.466  lr 1.0e-4  169.7min
+done. best val 1.448, saved in checkpoints/best

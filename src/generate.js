@@ -1,4 +1,4 @@
-const tf = require("@tensorflow/tfjs-node");
+const tf = require("./tf");
 const { vocabSize, encode, decode } = require("./tokenizer");
 const { config, createParams, forward, loadParams } = require("./model");
 

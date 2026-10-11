@@ -1,0 +1,304 @@
+{
+  "step": 15000,
+  "bestVal": 1.4480737805366517,
+  "config": {
+    "blockSize": 128,
+    "embDim": 128,
+    "nHeads": 4,
+    "nLayers": 3,
+    "dropout": 0.1
+  },
+  "tensors": [
+    {
+      "name": "tokEmb",
+      "shape": [
+        65,
+        128
+      ]
+    },
+    {
+      "name": "posEmb",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer0.ln1.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer0.ln1.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer0.Wq",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer0.Wk",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer0.Wv",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer0.Wproj",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer0.bproj",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer0.ln2.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer0.ln2.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer0.W1",
+      "shape": [
+        128,
+        512
+      ]
+    },
+    {
+      "name": "layer0.b1",
+      "shape": [
+        512
+      ]
+    },
+    {
+      "name": "layer0.W2",
+      "shape": [
+        512,
+        128
+      ]
+    },
+    {
+      "name": "layer0.b2",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer1.ln1.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer1.ln1.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer1.Wq",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer1.Wk",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer1.Wv",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer1.Wproj",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer1.bproj",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer1.ln2.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer1.ln2.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer1.W1",
+      "shape": [
+        128,
+        512
+      ]
+    },
+    {
+      "name": "layer1.b1",
+      "shape": [
+        512
+      ]
+    },
+    {
+      "name": "layer1.W2",
+      "shape": [
+        512,
+        128
+      ]
+    },
+    {
+      "name": "layer1.b2",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer2.ln1.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer2.ln1.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer2.Wq",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer2.Wk",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer2.Wv",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer2.Wproj",
+      "shape": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "layer2.bproj",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer2.ln2.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer2.ln2.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "layer2.W1",
+      "shape": [
+        128,
+        512
+      ]
+    },
+    {
+      "name": "layer2.b1",
+      "shape": [
+        512
+      ]
+    },
+    {
+      "name": "layer2.W2",
+      "shape": [
+        512,
+        128
+      ]
+    },
+    {
+      "name": "layer2.b2",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "lnF.gamma",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "lnF.beta",
+      "shape": [
+        128
+      ]
+    },
+    {
+      "name": "Wout",
+      "shape": [
+        128,
+        65
+      ]
+    },
+    {
+      "name": "bOut",
+      "shape": [
+        65
+      ]
+    }
+  ]
+}
